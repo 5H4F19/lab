@@ -34,4 +34,4 @@ def histogram_and_equalization(image_path):
     plt.show()
 
 if __name__ == "__main__":
-    histogram_and_equalization('test.jpg')
+    histogram_and_equalization('low_contrast_test.jpg')
